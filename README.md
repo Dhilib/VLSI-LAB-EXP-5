@@ -29,7 +29,8 @@ vivado 2023.3
 9.View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 Logic Diagram :
 
-![301745520-34ec5d63-2b3b-4511-81ef-99f4572d5869](https://github.com/Subash190/VLSI-LAB-EXP-5/assets/162429716/5eded9c5-dde9-4a18-8053-4b20b69dd3f3)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-5/assets/165645979/6f980e37-87a9-4b3e-95ea-36551a47f7e6)
+
 
 
 VERILOG CODE:
@@ -93,7 +94,8 @@ endmodule
 ~~~
 
 OUTPUT:
-![image](https://github.com/Subash190/VLSI-LAB-EXP-5/assets/162429716/0fc52a4b-8e4d-414f-9a36-69935a517113)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-5/assets/165645979/2d4a002f-fe66-438e-a240-bce83b231eac)
+
 
 
 RESULT:
